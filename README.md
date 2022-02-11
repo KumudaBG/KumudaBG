@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kumuda
-- 🌱 I’m pursuing Masters in San Jose State University,specialization in Data Science
+- 🌱 Data Science Graduate from San Jose State University
 - 📫 You can reach me through bgkumuda@gmail.com / kumuda.benakanahalliguruprasadamurt@sjsu.edu
 
